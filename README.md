@@ -1,12 +1,3 @@
-# ICS_SIS
-## Authors: 
-Miroslav Zárecký  
-Jan Skovajsa  
-Matěj Říčný  
-David Dumbrovský  
-Zuzana Slámová  
-## Language of implementaion:
-C#  
 ## School information system
 Basic informations system for school.  
 ### LICENSE
